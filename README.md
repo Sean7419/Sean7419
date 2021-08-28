@@ -9,6 +9,7 @@
   - GUI on Python/C++
   - .NET Framework
   - C#
+  - Git/Gitflow
 
 - 📫 How to reach me
   - email: sean.paul.kelly3496@gmail.com
