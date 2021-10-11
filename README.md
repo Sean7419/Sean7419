@@ -6,6 +6,7 @@
   - F1/Automotive
   
 - 🌱 I’m currently learning ...
+  - OOP Software Design and Development
   - GUI on Python/C++
   - .NET Framework
   - C#
