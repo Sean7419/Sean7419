@@ -18,4 +18,4 @@
 
 - Future Projects/Intentions:
   - I intend on reworking some of these smaller projects with better written code (such as comments, display of OOP methods, and other things that display better code).
-  - I have several projects that are not public due to them being solutions to school projects, but would be more than happy to show them and discuss them.
+  - I have several projects that are not public due to them being solutions to school projects, but would be more than happy to show and discuss them.
