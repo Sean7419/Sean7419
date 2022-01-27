@@ -6,8 +6,8 @@
   - F1/Automotive
   
 - 🌱 I’m currently learning ...
-  - OOP Software Design and Development
-  - GUI on Python/C++
+  - ML/AI
+  - Android Mobile App Development
   - .NET Framework
   - C#
   - Git/Gitflow
@@ -18,4 +18,6 @@
 
 - Future Projects:
   - I intend on reworking some of these smaller projects with better written code (such as comments, display of OOP methods, and other things that display better code).
+
+- Other Projects
   - I have several projects that are not public due to them being solutions to school projects, but would be more than happy to show and discuss them.
